@@ -1,7 +1,9 @@
 Best Practices
 
 By Gcloud team
-
+Being Kuberenetes Ready
+Configuring liveness and readiness probes
+https://cloud.google.com/blog/products/gcp/kubernetes-best-practices-setting-up-health-checks-with-readiness-and-liveness-probes
 
 
 
